@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Game</string>
+    <string name="you_loose">You Loose!</string>
+    <string name="read_the_rules">Read the Rules</string>
+    <string name="game_rules">Game Rules</string>
+
+    <string name="game_rules_description">1 . You are always playing The Game \n\n2. Whenever one thinks about The Game, one loses \n\n 3. Losses must be announced. This can be verbally, with a phrase such as "I just lost The Game", or in any other way: for example, via Facebook.</string>
+
+</resources>

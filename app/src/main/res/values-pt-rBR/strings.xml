@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">O Jogo</string>
+    <string name="you_loose">Você Perdeu!</string>
+    <string name="read_the_rules">Leia as Regras</string>
+    <string name="game_rules">Regras do Jogo</string>
+
+    <string name="game_rules_description">1 . Você está sempre jogando O Jogo\n\n2. Sempre que você pensa no jogo, você perde\n\n 3. Sempre que você perde, você deve anunciar. Isso pode ser feito verbalmente, com uma frase como: "Eu perdi o jogo", ou de outra forma, como por exemplo via Facebook.</string>
+
+</resources>
